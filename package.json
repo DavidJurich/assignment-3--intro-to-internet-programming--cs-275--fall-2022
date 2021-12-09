@@ -28,14 +28,13 @@
     "gulp-babel": "^8.0.0",
     "gulp-cache": "^1.1.1",
     "gulp-eslint": "^5.0.0",
-    "gulp-html": "^0.5.0",
+    "gulp-html": "^3.5.0",
     "gulp-htmlmin": "^5.0.1",
     "gulp-uglify": "^3.0.1",
-    "stylelint": "^13.2.0",
+    "stylelint": "^13.13.1",
     "gulp-uglifycss": "^1.1.0"
   },
   "dependencies": {
-    "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-cli": "^2.3.0",
     "gulp-eslint": "^6.0.0",
